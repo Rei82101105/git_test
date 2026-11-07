@@ -5,6 +5,7 @@ int main() {
     std::cout << "testA" << std::endl;
     std::cout << "testB" << std::endl;
     std::cout << "创建分支dev01" << std::endl;
+    std::cout << "A修改并提交" << std::endl;
     std::cout << "main先修改，不同步，不拉取" << std::endl;
     return 0;
 }
